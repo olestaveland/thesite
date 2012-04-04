@@ -26,6 +26,7 @@ gem 'webrat'
 
 group :development do
   gem 'rspec-rails', '2.9.0'
+  gem 'annotate', '~> 2.4.1.beta'
 end
 
 group :test do
